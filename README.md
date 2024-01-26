@@ -10,9 +10,9 @@ repository that contains links for particular subjects
 
 ## status bar
 
-### polybar
+- polybar
 
 ## run prompt
 
-### dmenu
-### rofi
+- dmenu
+- rofi
