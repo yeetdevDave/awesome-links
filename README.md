@@ -5,3 +5,14 @@ repository that contains links for particular subjects
 
 ## *nix
   ### [askubuntu](askubuntu.com)
+
+# window managers
+
+## status bar
+
+### polybar
+
+## run prompt
+
+### dmenu
+### rofi
