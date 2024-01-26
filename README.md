@@ -4,7 +4,8 @@ repository that contains links for particular subjects
 # Get help
 
 ## *nix
-  ### [askubuntu](askubuntu.com)
+
+[askubuntu](askubuntu.com)
 
 # window managers
 
