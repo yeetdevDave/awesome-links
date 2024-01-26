@@ -15,5 +15,5 @@ polybar
 
 ## run prompt
 
-dmenu
+dmenu  
 rofi
